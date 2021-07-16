@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ___
-![Metrics](https://github.com/spandu500/spandu500/github-metrics.svg)
+![Metrics](https://github.com/spandu500/spandu500/blob/master/github-metrics.svg)
 ___
 
 <!--

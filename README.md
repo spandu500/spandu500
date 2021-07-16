@@ -1,6 +1,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
+___
 ![Metrics](https://github.com/spandu500/spandu500/blob/master/github-metrics.svg)
+___
 
 <!--
 **spandu500/spandu500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
